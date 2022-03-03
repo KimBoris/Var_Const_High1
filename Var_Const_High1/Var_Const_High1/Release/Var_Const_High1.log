@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Feelgood_PC8\Documents\GitHub\Var_Const_High1\Var_Const_High1\Var_Const_High1\main.c(125,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const int *'입니다.
+  코드를 생성하고 있습니다.
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Var_Const_High1.vcxproj -> C:\Users\Feelgood_PC8\Documents\GitHub\Var_Const_High1\Var_Const_High1\Release\Var_Const_High1.exe
